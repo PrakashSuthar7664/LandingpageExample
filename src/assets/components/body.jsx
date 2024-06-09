@@ -21,7 +21,7 @@ const body = () => {
           className="absolute -rotate-[15deg] h-64 md:h-96"
         />
         <img
-          src="./public/assets/Hero-Model.png"
+          src="./Hero-Model.png"
           alt="4st"
           className="absolute h-64 md:h-96"
         />
